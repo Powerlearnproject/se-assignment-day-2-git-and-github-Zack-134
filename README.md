@@ -6,17 +6,17 @@
 
 ### GitHub is popular tool for version control tool due to its features including:
 
-*1. **Repository hosting:** Store and manage your project's code and history.
-*2. **Collaboration:** Work with teams on projects, review code, and contribute to open-source projects.
-*3. **Issue tracking:** Manage tasks, bugs, and feature requests.
-*4. **Project management:** Organize projects, assign tasks, and track progress.
+1. **Repository hosting:** Store and manage your project's code and history.
+2. **Collaboration:** Work with teams on projects, review code, and contribute to open-source projects.
+3. **Issue tracking:** Manage tasks, bugs, and feature requests.
+4. **Project management:** Organize projects, assign tasks, and track progress.
 
 ### Version control maintaining project integrity:
 
-*1. **History Tracking:** You can trace the evolution of your project, understand why certain changes were made, and learn from past mistakes.
-*2. **Conflict Resolution:** When multiple developers work on the same files, version control helps identify and resolve conflicts.
-*3. **Code Review:** By reviewing changes before they are merged into the main branch, you can ensure code quality and consistency.
-*4. **Backup and Recovery:** Version control creates backups of your project at each commit, allowing you to recover from accidental deletions or errors.
+1. **History Tracking:** You can trace the evolution of your project, understand why certain changes were made, and learn from past mistakes.
+2. **Conflict Resolution:** When multiple developers work on the same files, version control helps identify and resolve conflicts.
+3. **Code Review:** By reviewing changes before they are merged into the main branch, you can ensure code quality and consistency.
+4. **Backup and Recovery:** Version control creates backups of your project at each commit, allowing you to recover from accidental deletions or errors.
 
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
